@@ -4,3 +4,21 @@
     width: 50%;
     
 }
+#Geral{
+    
+    border: 1px solid #007bff;
+    border-radius: 10%;
+    margin-top: 4%;
+    background-color:;
+    color: #000;
+    box-shadow: 4px 4px 4px #000;
+   text-shadow:2px 2px 2px #c5c5c5;
+    font-size:20px;
+    
+}
+
+select value{
+    
+    font-size:10px;
+    
+}
